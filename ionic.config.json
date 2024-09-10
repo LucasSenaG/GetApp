@@ -1,0 +1,7 @@
+{
+  "name": "GetApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
